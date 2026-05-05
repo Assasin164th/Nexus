@@ -1,0 +1,6 @@
+gigachat
+PyQt6
+requests
+pytesseract
+Pillow
+python-docx
